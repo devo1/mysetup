@@ -40,7 +40,7 @@ if (app.get('env') === 'development') {
   });
 }
 /**
- * Production Settings
+ * Production
  */
 if (app.get('env') === 'production') {
 
